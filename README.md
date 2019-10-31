@@ -24,7 +24,7 @@ This repository is intended to share the thoughts about programming books by eve
 
 ★★★★★ [Design Patterns: Elements of Reusable Object‑Oriented Software(디자인 패턴)](/Oct_2019/design_pattern)
 
-★★★★★ [Test Driven Development : By Example(테스트 주도 개발](/Oct_2019/tdd)
+★★★★★ [Test Driven Development : By Example(테스트 주도 개발)](/Oct_2019/tdd)
 
 ★★★★★ [High Performance Browser Networking(네트워킹과 웹 성능 최적화 기법)](/Oct_2019/high_web_performance)
 
