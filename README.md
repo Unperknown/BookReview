@@ -18,4 +18,16 @@ This repository is intended to share the thoughts about programming books by eve
 
 ## October 2019
 
+★★★★★ [Head First Agile(애자일다운 안내서)](/Oct_2019/agile)
+
+★★★★ [RESTful Web API(RESTful 웹 API)](/Oct_2019/restful_api)
+
+★★★★★ [Design Patterns: Elements of Reusable Object‑Oriented Software(디자인 패턴)](/Oct_2019/design_pattern)
+
+★★★★★ [Test Driven Development : By Example(테스트 주도 개발](/Oct_2019/tdd)
+
+★★★★★ [High Performance Browser Networking(네트워킹과 웹 성능 최적화 기법)](/Oct_2019/high_web_performance)
+
+★★★★ [HTTP: The Definitive Guide(HTTP 완벽 가이드)](/Oct_2019/http_guide)
+
 ## November 2019
